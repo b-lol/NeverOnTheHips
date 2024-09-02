@@ -1,0 +1,13 @@
+{
+    "name": "Fatness",
+    "menu": [
+        {
+            "foodName": "Cheeseburger",
+            "calories": 200
+        },
+        {
+            "foodName": "milkshake",
+            "calories": 180
+        }
+    ]
+}

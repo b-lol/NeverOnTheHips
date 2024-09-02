@@ -1,0 +1,17 @@
+{
+    "name": "Cheat day",
+    "menu": [
+        {
+            "foodName": "Milk",
+            "calories": 5
+        },
+        {
+            "foodName": "Apples",
+            "calories": 9
+        },
+        {
+            "foodName": "banana",
+            "calories": 2
+        }
+    ]
+}
